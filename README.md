@@ -20,3 +20,6 @@ In this project, I extracted the essential data via SQL and used python3 to anal
 •	Compared with the slow rise in the world in the 1850s to 1900s, Boston has remained cold for about 30 years, and then began to soar rapidly in the 1880s. 
 
 •	When the global remain flat in 1950s -70s, Boston has a drop around 0.5°C.
+
+For more detail and visualizaiton refer to:
+https://github.com/salmoncan0110/ExploringWeatherTrends/blob/main/Project_Exploring%20Weather%20Trends%20_Szu.pdf
