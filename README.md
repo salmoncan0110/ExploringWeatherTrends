@@ -2,6 +2,7 @@
 
 ### Tool: 
 SQL -- Data extract 
+
 Python3 -- Data-xploration & Visualization
 
 ### Summary
