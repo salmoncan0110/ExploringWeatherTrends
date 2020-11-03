@@ -1,5 +1,8 @@
 # ExploringWeatherTrends
-Tool: SQL &amp; Python3
+
+### Tool: 
+SQL -- Data extract 
+Python3 -- Data-xploration & Visualization
 
 ### Summary
 In this project, I extracted the essential data via SQL and used python3 to analyze and compare the temperature trends in Boston and the overall global temperature trends. Since I want to compare the overall trend, I chose a line chart of 15-year moving average, which can show the trend without losing too much detail. 
