@@ -25,5 +25,5 @@ In this project, I extracted the essential data via SQL and used python3 to anal
 
 •	When the global remain flat in 1950s -70s, Boston has a drop around 0.5°C.
 
-For more detail and visualizaiton refer to:
-https://github.com/salmoncan0110/ExploringWeatherTrends/blob/main/Project_Exploring%20Weather%20Trends%20_Szu.pdf
+For more detail and visualizaiton refer to: [ExploringWeatherTrends](https://github.com/salmoncan0110/ExploringWeatherTrends/blob/main/Project_Exploring%20Weather%20Trends%20_Szu.pdf)
+
